@@ -1,26 +1,30 @@
 # Met / AIC / CMA Roulette (Expo + React Native)
 
-Random public-domain artworks from The Met, Art Institute of Chicago (AIC), and Cleveland Museum of Art (CMA). Runs on iPhone (via Expo Go), iOS Simulator, and Web.
-Working on: MoMA
+Random public-domain artwork from The Met, Art Institute of Chicago (AIC), and Cleveland Museum of Art (CMA). Runs on iPhone (via Expo Go), iOS Simulator, and Web.  
+Working on: MoMA.  
+Forked from https://github.com/adamlacue/Met-Roulette.git
 
----
+## Prereqs
 
-## Prereqs (macOS)
+### Installing node.js on macOS
 
 - **Node.js (LTS) + npm**
   - Install with Homebrew: `brew install node`  
   - Or download: https://nodejs.org  
   - Check: `node -v && npm -v`
+
+## macOS and Debian/Ubuntu
 - **Git** (usually installed): `git --version`
 - **Expo CLI** (optional; you can also use `npx expo`):
   ```bash
   npm install -g expo-cli
 
+NOTE: Node version >= 20.0 required.
 
 
 ## 1 Clone the repo
 ```
-git clone https://github.com/adamlacue/Met-Roulette.git
+git clone https://github.com/gigeresk/met-roulette
 cd Met-Roulette
 ```
 ## 2 Install deps
