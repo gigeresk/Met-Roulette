@@ -18,26 +18,19 @@ Working on: MoMA
 
 
 
-# 1) Clone the repo
+## 1 Clone the repo
+```
 git clone https://github.com/adamlacue/Met-Roulette.git
 cd Met-Roulette
-
-# 2) Install deps
+```
+## 2 Install deps
+```
 npm install
-
-# 3) Start the dev server
+```
+## 3 Start the dev server
+```
 npx expo start
-
-
-
-
-
-
-
-
-
-
-
+```
 
 # Welcome to your Expo app 👋
 
